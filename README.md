@@ -27,7 +27,7 @@ I solve problems on various competitive programming platforms, mainly using **Ja
 | Language | Rating |
 |----------|--------|
 | ☕ Java | **7/10** |
-| 🐍 Python | **6/10** *(Still Improving)* |
+| 🐍 Python | **4/10** *(Still Improving)* |
 
 ---
 
